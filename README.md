@@ -3,20 +3,6 @@
 Este projeto é uma API REST desenvolvida com **Node.js e Express**, integrada à API da OpenAI, com foco em estudo de **backend, APIs e Inteligência Artificial Generativa**.
 
 ---
-## 📝 Observações sobre o código
-
-Este projeto contém comentários no código com o objetivo de facilitar o entendimento do fluxo da aplicação.
-
-Os comentários foram adicionados de forma intencional para:
-
-- Explicar o funcionamento de cada etapa da API
-- Facilitar o aprendizado durante o desenvolvimento
-- Auxiliar na revisão futura do código
-- Demonstrar compreensão da lógica do backend
-
-Com o avanço do projeto e da maturidade técnica, esses comentários podem ser reduzidos ou removidos em versões futuras para código mais limpo e próximo de um ambiente de produção.
-
----
 
 ## 📌 Objetivo do Projeto
 
